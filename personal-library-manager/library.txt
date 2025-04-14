@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Never loos your hope",
+        "author": "Komallaheja",
+        "year": "2025",
+        "genre": "emotions",
+        "read": true
+    }
+]
